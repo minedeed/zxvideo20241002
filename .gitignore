@@ -1,8 +1,0 @@
-.idea
-.gradle
-*.jks
-lib-*.aar
-*build
-/media*
-/Release
-/local.properties
